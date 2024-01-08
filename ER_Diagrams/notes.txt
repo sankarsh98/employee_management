@@ -1,2 +1,4 @@
 
 https://www.freeprojectz.com/entity-relationship/employee-management-system-er-diagram
+
+https://www.geeksforgeeks.org/er-diagram-of-a-company/
