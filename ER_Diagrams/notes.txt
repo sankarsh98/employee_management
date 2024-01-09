@@ -2,3 +2,7 @@
 https://www.freeprojectz.com/entity-relationship/employee-management-system-er-diagram
 
 https://www.geeksforgeeks.org/er-diagram-of-a-company/
+
+HostName 132.145.167.168
+	IdentityFile /Users/sankarshpallela/Documents/sanky/Ubuntu_Server/my_linux_website.key
+	User opc
